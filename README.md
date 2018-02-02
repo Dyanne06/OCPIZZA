@@ -1,5 +1,3 @@
-"# OCPIZZA" 
-
 #*Analysez les besoins d'un client pour son groupe de pizzerias.*
 
 ##Contexte:
